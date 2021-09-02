@@ -1,1 +1,5 @@
-Hi this is Cloud content
+spring.datasource.url=jdbc:mysql://localhost:3306/siva
+spring.datasource.username=root
+spring.datasource.password=Siva@321
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.format_sql=true
